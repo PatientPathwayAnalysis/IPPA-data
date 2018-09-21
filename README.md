@@ -1,2 +1,7 @@
 # IPPA-data
-example data for IPPA. 
+Example datasets for IPPA, including 
+
+- Input data format
+- Input data
+- Output data
+- Output figures

@@ -1,103 +1,103 @@
 ,HOSP_ID,LEVEL,AREA
-0,Hospital_  1,B,N
-1,Hospital_  2,B,C
-2,Hospital_  3,D,S
-3,Hospital_  4,B,W
-4,Hospital_  5,A,N
-5,Hospital_  6,D,W
-6,Hospital_  7,A,S
-7,Hospital_  8,A,S
-8,Hospital_  9,A,C
-9,Hospital_ 10,C,S
-10,Hospital_ 11,D,S
-11,Hospital_ 12,A,S
-12,Hospital_ 13,B,C
-13,Hospital_ 14,A,W
-14,Hospital_ 15,B,W
-15,Hospital_ 16,D,N
-16,Hospital_ 17,B,W
-17,Hospital_ 18,A,W
-18,Hospital_ 19,A,W
-19,Hospital_ 20,A,C
-20,Hospital_ 21,A,N
-21,Hospital_ 22,A,W
-22,Hospital_ 23,A,S
-23,Hospital_ 24,A,N
-24,Hospital_ 25,A,S
-25,Hospital_ 26,A,E
-26,Hospital_ 27,C,S
-27,Hospital_ 28,D,W
-28,Hospital_ 29,B,C
-29,Hospital_ 30,D,S
-30,Hospital_ 31,A,W
-31,Hospital_ 32,A,S
-32,Hospital_ 33,A,S
-33,Hospital_ 34,A,W
-34,Hospital_ 35,A,S
-35,Hospital_ 36,A,N
-36,Hospital_ 37,A,W
-37,Hospital_ 38,A,S
-38,Hospital_ 39,C,W
-39,Hospital_ 40,A,N
-40,Hospital_ 41,A,N
-41,Hospital_ 42,A,C
-42,Hospital_ 43,C,S
-43,Hospital_ 44,B,N
-44,Hospital_ 45,D,S
-45,Hospital_ 46,A,C
-46,Hospital_ 47,B,W
-47,Hospital_ 48,B,C
-48,Hospital_ 49,B,S
-49,Hospital_ 50,A,E
-50,Hospital_ 51,A,W
-51,Hospital_ 52,B,S
-52,Hospital_ 53,A,W
-53,Hospital_ 54,A,W
-54,Hospital_ 55,B,C
-55,Hospital_ 56,C,W
-56,Hospital_ 57,D,E
-57,Hospital_ 58,D,S
-58,Hospital_ 59,C,C
-59,Hospital_ 60,A,W
-60,Hospital_ 61,A,W
-61,Hospital_ 62,D,W
-62,Hospital_ 63,D,W
-63,Hospital_ 64,D,N
-64,Hospital_ 65,A,W
-65,Hospital_ 66,A,W
-66,Hospital_ 67,A,S
-67,Hospital_ 68,A,N
-68,Hospital_ 69,D,C
-69,Hospital_ 70,C,N
-70,Hospital_ 71,A,C
-71,Hospital_ 72,D,N
-72,Hospital_ 73,A,W
-73,Hospital_ 74,A,W
-74,Hospital_ 75,A,E
-75,Hospital_ 76,B,C
-76,Hospital_ 77,A,N
-77,Hospital_ 78,A,C
-78,Hospital_ 79,B,S
-79,Hospital_ 80,C,W
-80,Hospital_ 81,D,S
-81,Hospital_ 82,A,W
-82,Hospital_ 83,A,C
-83,Hospital_ 84,A,S
-84,Hospital_ 85,A,N
-85,Hospital_ 86,A,N
-86,Hospital_ 87,A,N
-87,Hospital_ 88,C,N
-88,Hospital_ 89,B,W
-89,Hospital_ 90,A,S
-90,Hospital_ 91,A,E
-91,Hospital_ 92,A,C
-92,Hospital_ 93,A,N
-93,Hospital_ 94,A,W
-94,Hospital_ 95,C,S
-95,Hospital_ 96,A,S
-96,Hospital_ 97,A,C
-97,Hospital_ 98,A,W
-98,Hospital_ 99,A,W
+0,Hospital_001,B,N
+1,Hospital_002,B,C
+2,Hospital_003,D,S
+3,Hospital_004,B,W
+4,Hospital_005,A,N
+5,Hospital_006,D,W
+6,Hospital_007,A,S
+7,Hospital_008,A,S
+8,Hospital_009,A,C
+9,Hospital_010,C,S
+10,Hospital_011,D,S
+11,Hospital_012,A,S
+12,Hospital_013,B,C
+13,Hospital_014,A,W
+14,Hospital_015,B,W
+15,Hospital_016,D,N
+16,Hospital_017,B,W
+17,Hospital_018,A,W
+18,Hospital_019,A,W
+19,Hospital_020,A,C
+20,Hospital_021,A,N
+21,Hospital_022,A,W
+22,Hospital_023,A,S
+23,Hospital_024,A,N
+24,Hospital_025,A,S
+25,Hospital_026,A,E
+26,Hospital_027,C,S
+27,Hospital_028,D,W
+28,Hospital_029,B,C
+29,Hospital_030,D,S
+30,Hospital_031,A,W
+31,Hospital_032,A,S
+32,Hospital_033,A,S
+33,Hospital_034,A,W
+34,Hospital_035,A,S
+35,Hospital_036,A,N
+36,Hospital_037,A,W
+37,Hospital_038,A,S
+38,Hospital_039,C,W
+39,Hospital_040,A,N
+40,Hospital_041,A,N
+41,Hospital_042,A,C
+42,Hospital_043,C,S
+43,Hospital_044,B,N
+44,Hospital_045,D,S
+45,Hospital_046,A,C
+46,Hospital_047,B,W
+47,Hospital_048,B,C
+48,Hospital_049,B,S
+49,Hospital_050,A,E
+50,Hospital_051,A,W
+51,Hospital_052,B,S
+52,Hospital_053,A,W
+53,Hospital_054,A,W
+54,Hospital_055,B,C
+55,Hospital_056,C,W
+56,Hospital_057,D,E
+57,Hospital_058,D,S
+58,Hospital_059,C,C
+59,Hospital_060,A,W
+60,Hospital_061,A,W
+61,Hospital_062,D,W
+62,Hospital_063,D,W
+63,Hospital_064,D,N
+64,Hospital_065,A,W
+65,Hospital_066,A,W
+66,Hospital_067,A,S
+67,Hospital_068,A,N
+68,Hospital_069,D,C
+69,Hospital_070,C,N
+70,Hospital_071,A,C
+71,Hospital_072,D,N
+72,Hospital_073,A,W
+73,Hospital_074,A,W
+74,Hospital_075,A,E
+75,Hospital_076,B,C
+76,Hospital_077,A,N
+77,Hospital_078,A,C
+78,Hospital_079,B,S
+79,Hospital_080,C,W
+80,Hospital_081,D,S
+81,Hospital_082,A,W
+82,Hospital_083,A,C
+83,Hospital_084,A,S
+84,Hospital_085,A,N
+85,Hospital_086,A,N
+86,Hospital_087,A,N
+87,Hospital_088,C,N
+88,Hospital_089,B,W
+89,Hospital_090,A,S
+90,Hospital_091,A,E
+91,Hospital_092,A,C
+92,Hospital_093,A,N
+93,Hospital_094,A,W
+94,Hospital_095,C,S
+95,Hospital_096,A,S
+96,Hospital_097,A,C
+97,Hospital_098,A,W
+98,Hospital_099,A,W
 99,Hospital_100,A,S
 100,Hospital_101,C,C
 101,Hospital_102,A,C

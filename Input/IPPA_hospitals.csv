@@ -1,255 +1,255 @@
 ,HOSP_ID,LEVEL,AREA
-0,Hospital_  1,,N
-1,Hospital_  2,,C
-2,Hospital_  3,,S
-3,Hospital_  4,,W
+0,Hospital_  1,B,N
+1,Hospital_  2,B,C
+2,Hospital_  3,D,S
+3,Hospital_  4,B,W
 4,Hospital_  5,A,N
-5,Hospital_  6,,W
-6,Hospital_  7,,S
-7,Hospital_  8,,S
-8,Hospital_  9,,C
+5,Hospital_  6,D,W
+6,Hospital_  7,A,S
+7,Hospital_  8,A,S
+8,Hospital_  9,A,C
 9,Hospital_ 10,C,S
-10,Hospital_ 11,,S
-11,Hospital_ 12,,S
-12,Hospital_ 13,,C
-13,Hospital_ 14,,W
-14,Hospital_ 15,,W
-15,Hospital_ 16,,N
-16,Hospital_ 17,,W
-17,Hospital_ 18,,W
-18,Hospital_ 19,,W
-19,Hospital_ 20,,C
-20,Hospital_ 21,,N
-21,Hospital_ 22,,W
-22,Hospital_ 23,,S
+10,Hospital_ 11,D,S
+11,Hospital_ 12,A,S
+12,Hospital_ 13,B,C
+13,Hospital_ 14,A,W
+14,Hospital_ 15,B,W
+15,Hospital_ 16,D,N
+16,Hospital_ 17,B,W
+17,Hospital_ 18,A,W
+18,Hospital_ 19,A,W
+19,Hospital_ 20,A,C
+20,Hospital_ 21,A,N
+21,Hospital_ 22,A,W
+22,Hospital_ 23,A,S
 23,Hospital_ 24,A,N
-24,Hospital_ 25,,S
-25,Hospital_ 26,,E
-26,Hospital_ 27,,S
-27,Hospital_ 28,,W
-28,Hospital_ 29,,C
-29,Hospital_ 30,,S
-30,Hospital_ 31,,W
-31,Hospital_ 32,,S
-32,Hospital_ 33,,S
-33,Hospital_ 34,,W
-34,Hospital_ 35,,S
-35,Hospital_ 36,,N
-36,Hospital_ 37,,W
-37,Hospital_ 38,,S
-38,Hospital_ 39,,W
-39,Hospital_ 40,,N
+24,Hospital_ 25,A,S
+25,Hospital_ 26,A,E
+26,Hospital_ 27,C,S
+27,Hospital_ 28,D,W
+28,Hospital_ 29,B,C
+29,Hospital_ 30,D,S
+30,Hospital_ 31,A,W
+31,Hospital_ 32,A,S
+32,Hospital_ 33,A,S
+33,Hospital_ 34,A,W
+34,Hospital_ 35,A,S
+35,Hospital_ 36,A,N
+36,Hospital_ 37,A,W
+37,Hospital_ 38,A,S
+38,Hospital_ 39,C,W
+39,Hospital_ 40,A,N
 40,Hospital_ 41,A,N
-41,Hospital_ 42,,C
-42,Hospital_ 43,,S
-43,Hospital_ 44,,N
-44,Hospital_ 45,,S
-45,Hospital_ 46,,C
+41,Hospital_ 42,A,C
+42,Hospital_ 43,C,S
+43,Hospital_ 44,B,N
+44,Hospital_ 45,D,S
+45,Hospital_ 46,A,C
 46,Hospital_ 47,B,W
 47,Hospital_ 48,B,C
-48,Hospital_ 49,,S
-49,Hospital_ 50,,E
+48,Hospital_ 49,B,S
+49,Hospital_ 50,A,E
 50,Hospital_ 51,A,W
-51,Hospital_ 52,,S
-52,Hospital_ 53,,W
-53,Hospital_ 54,,W
-54,Hospital_ 55,,C
+51,Hospital_ 52,B,S
+52,Hospital_ 53,A,W
+53,Hospital_ 54,A,W
+54,Hospital_ 55,B,C
 55,Hospital_ 56,C,W
-56,Hospital_ 57,,E
+56,Hospital_ 57,D,E
 57,Hospital_ 58,D,S
-58,Hospital_ 59,,C
-59,Hospital_ 60,,W
-60,Hospital_ 61,,W
-61,Hospital_ 62,,W
-62,Hospital_ 63,,W
-63,Hospital_ 64,,N
-64,Hospital_ 65,,W
-65,Hospital_ 66,,W
-66,Hospital_ 67,,S
-67,Hospital_ 68,,N
-68,Hospital_ 69,,C
+58,Hospital_ 59,C,C
+59,Hospital_ 60,A,W
+60,Hospital_ 61,A,W
+61,Hospital_ 62,D,W
+62,Hospital_ 63,D,W
+63,Hospital_ 64,D,N
+64,Hospital_ 65,A,W
+65,Hospital_ 66,A,W
+66,Hospital_ 67,A,S
+67,Hospital_ 68,A,N
+68,Hospital_ 69,D,C
 69,Hospital_ 70,C,N
 70,Hospital_ 71,A,C
-71,Hospital_ 72,,N
+71,Hospital_ 72,D,N
 72,Hospital_ 73,A,W
-73,Hospital_ 74,,W
-74,Hospital_ 75,,E
-75,Hospital_ 76,,C
-76,Hospital_ 77,,N
-77,Hospital_ 78,,C
-78,Hospital_ 79,,S
-79,Hospital_ 80,,W
+73,Hospital_ 74,A,W
+74,Hospital_ 75,A,E
+75,Hospital_ 76,B,C
+76,Hospital_ 77,A,N
+77,Hospital_ 78,A,C
+78,Hospital_ 79,B,S
+79,Hospital_ 80,C,W
 80,Hospital_ 81,D,S
 81,Hospital_ 82,A,W
-82,Hospital_ 83,,C
-83,Hospital_ 84,,S
-84,Hospital_ 85,,N
-85,Hospital_ 86,,N
-86,Hospital_ 87,,N
-87,Hospital_ 88,,N
-88,Hospital_ 89,,W
-89,Hospital_ 90,,S
-90,Hospital_ 91,,E
-91,Hospital_ 92,,C
-92,Hospital_ 93,,N
-93,Hospital_ 94,,W
-94,Hospital_ 95,,S
-95,Hospital_ 96,,S
-96,Hospital_ 97,,C
-97,Hospital_ 98,,W
-98,Hospital_ 99,,W
+82,Hospital_ 83,A,C
+83,Hospital_ 84,A,S
+84,Hospital_ 85,A,N
+85,Hospital_ 86,A,N
+86,Hospital_ 87,A,N
+87,Hospital_ 88,C,N
+88,Hospital_ 89,B,W
+89,Hospital_ 90,A,S
+90,Hospital_ 91,A,E
+91,Hospital_ 92,A,C
+92,Hospital_ 93,A,N
+93,Hospital_ 94,A,W
+94,Hospital_ 95,C,S
+95,Hospital_ 96,A,S
+96,Hospital_ 97,A,C
+97,Hospital_ 98,A,W
+98,Hospital_ 99,A,W
 99,Hospital_100,A,S
-100,Hospital_101,,C
-101,Hospital_102,,C
-102,Hospital_103,,W
+100,Hospital_101,C,C
+101,Hospital_102,A,C
+102,Hospital_103,B,W
 103,Hospital_104,A,E
-104,Hospital_105,,W
-105,Hospital_106,,W
-106,Hospital_107,,W
+104,Hospital_105,A,W
+105,Hospital_106,A,W
+106,Hospital_107,C,W
 107,Hospital_108,A,W
-108,Hospital_109,,N
-109,Hospital_110,,S
-110,Hospital_111,,S
-111,Hospital_112,,N
+108,Hospital_109,A,N
+109,Hospital_110,A,S
+110,Hospital_111,B,S
+111,Hospital_112,B,N
 112,Hospital_113,C,N
-113,Hospital_114,,W
-114,Hospital_115,,N
-115,Hospital_116,,C
-116,Hospital_117,,N
-117,Hospital_118,,N
-118,Hospital_119,,C
-119,Hospital_120,,N
-120,Hospital_121,,W
-121,Hospital_122,,C
-122,Hospital_123,,S
-123,Hospital_124,,E
-124,Hospital_125,,W
-125,Hospital_126,,W
-126,Hospital_127,,S
-127,Hospital_128,,S
-128,Hospital_129,,C
-129,Hospital_130,,W
-130,Hospital_131,,W
-131,Hospital_132,,C
-132,Hospital_133,,W
-133,Hospital_134,,W
-134,Hospital_135,,C
-135,Hospital_136,,N
-136,Hospital_137,,E
-137,Hospital_138,,E
+113,Hospital_114,A,W
+114,Hospital_115,A,N
+115,Hospital_116,A,C
+116,Hospital_117,C,N
+117,Hospital_118,A,N
+118,Hospital_119,C,C
+119,Hospital_120,A,N
+120,Hospital_121,A,W
+121,Hospital_122,A,C
+122,Hospital_123,B,S
+123,Hospital_124,A,E
+124,Hospital_125,A,W
+125,Hospital_126,B,W
+126,Hospital_127,A,S
+127,Hospital_128,B,S
+128,Hospital_129,B,C
+129,Hospital_130,C,W
+130,Hospital_131,A,W
+131,Hospital_132,A,C
+132,Hospital_133,A,W
+133,Hospital_134,B,W
+134,Hospital_135,A,C
+135,Hospital_136,A,N
+136,Hospital_137,A,E
+137,Hospital_138,A,E
 138,Hospital_139,B,E
-139,Hospital_140,,C
-140,Hospital_141,,N
-141,Hospital_142,,C
-142,Hospital_143,,W
-143,Hospital_144,,E
-144,Hospital_145,,W
-145,Hospital_146,,W
-146,Hospital_147,,S
-147,Hospital_148,,C
-148,Hospital_149,,W
-149,Hospital_150,,C
-150,Hospital_151,,W
-151,Hospital_152,,W
-152,Hospital_153,,N
-153,Hospital_154,,W
+139,Hospital_140,A,C
+140,Hospital_141,A,N
+141,Hospital_142,D,C
+142,Hospital_143,A,W
+143,Hospital_144,A,E
+144,Hospital_145,A,W
+145,Hospital_146,B,W
+146,Hospital_147,A,S
+147,Hospital_148,A,C
+148,Hospital_149,A,W
+149,Hospital_150,A,C
+150,Hospital_151,A,W
+151,Hospital_152,A,W
+152,Hospital_153,C,N
+153,Hospital_154,A,W
 154,Hospital_155,D,W
 155,Hospital_156,A,N
-156,Hospital_157,,N
-157,Hospital_158,,W
-158,Hospital_159,,W
-159,Hospital_160,,C
-160,Hospital_161,,S
-161,Hospital_162,,S
-162,Hospital_163,,W
-163,Hospital_164,,W
-164,Hospital_165,,S
-165,Hospital_166,,W
-166,Hospital_167,,S
-167,Hospital_168,,C
+156,Hospital_157,A,N
+157,Hospital_158,B,W
+158,Hospital_159,A,W
+159,Hospital_160,B,C
+160,Hospital_161,A,S
+161,Hospital_162,A,S
+162,Hospital_163,A,W
+163,Hospital_164,A,W
+164,Hospital_165,A,S
+165,Hospital_166,A,W
+166,Hospital_167,A,S
+167,Hospital_168,A,C
 168,Hospital_169,A,W
-169,Hospital_170,,S
-170,Hospital_171,,S
-171,Hospital_172,,C
-172,Hospital_173,,W
-173,Hospital_174,,N
-174,Hospital_175,,N
-175,Hospital_176,,S
-176,Hospital_177,,W
-177,Hospital_178,,C
-178,Hospital_179,,S
-179,Hospital_180,,S
-180,Hospital_181,,W
-181,Hospital_182,,C
-182,Hospital_183,,N
-183,Hospital_184,,N
-184,Hospital_185,,C
-185,Hospital_186,,C
-186,Hospital_187,,S
+169,Hospital_170,A,S
+170,Hospital_171,B,S
+171,Hospital_172,A,C
+172,Hospital_173,A,W
+173,Hospital_174,B,N
+174,Hospital_175,A,N
+175,Hospital_176,C,S
+176,Hospital_177,A,W
+177,Hospital_178,A,C
+178,Hospital_179,B,S
+179,Hospital_180,A,S
+180,Hospital_181,A,W
+181,Hospital_182,A,C
+182,Hospital_183,B,N
+183,Hospital_184,C,N
+184,Hospital_185,B,C
+185,Hospital_186,C,C
+186,Hospital_187,C,S
 187,Hospital_188,A,E
-188,Hospital_189,,C
-189,Hospital_190,,C
-190,Hospital_191,,S
-191,Hospital_192,,S
+188,Hospital_189,C,C
+189,Hospital_190,B,C
+190,Hospital_191,C,S
+191,Hospital_192,A,S
 192,Hospital_193,C,S
-193,Hospital_194,,N
-194,Hospital_195,,E
-195,Hospital_196,,C
-196,Hospital_197,,W
-197,Hospital_198,,W
-198,Hospital_199,,W
-199,Hospital_200,,C
-200,Hospital_201,,E
-201,Hospital_202,,N
-202,Hospital_203,,W
-203,Hospital_204,,N
-204,Hospital_205,,E
-205,Hospital_206,,N
+193,Hospital_194,A,N
+194,Hospital_195,A,E
+195,Hospital_196,A,C
+196,Hospital_197,A,W
+197,Hospital_198,A,W
+198,Hospital_199,A,W
+199,Hospital_200,A,C
+200,Hospital_201,A,E
+201,Hospital_202,A,N
+202,Hospital_203,A,W
+203,Hospital_204,B,N
+204,Hospital_205,A,E
+205,Hospital_206,A,N
 206,Hospital_207,A,N
 207,Hospital_208,A,S
-208,Hospital_209,,W
-209,Hospital_210,,N
-210,Hospital_211,,N
-211,Hospital_212,,N
-212,Hospital_213,,N
+208,Hospital_209,A,W
+209,Hospital_210,A,N
+210,Hospital_211,A,N
+211,Hospital_212,A,N
+212,Hospital_213,A,N
 213,Hospital_214,B,E
-214,Hospital_215,,C
-215,Hospital_216,,N
-216,Hospital_217,,W
-217,Hospital_218,,C
-218,Hospital_219,,S
-219,Hospital_220,,S
+214,Hospital_215,A,C
+215,Hospital_216,C,N
+216,Hospital_217,A,W
+217,Hospital_218,A,C
+218,Hospital_219,A,S
+219,Hospital_220,A,S
 220,Hospital_221,A,E
 221,Hospital_222,A,W
-222,Hospital_223,,S
-223,Hospital_224,,C
-224,Hospital_225,,E
-225,Hospital_226,,N
-226,Hospital_227,,C
-227,Hospital_228,,N
-228,Hospital_229,,C
-229,Hospital_230,,N
-230,Hospital_231,,C
-231,Hospital_232,,W
-232,Hospital_233,,W
-233,Hospital_234,,C
-234,Hospital_235,,W
-235,Hospital_236,,W
-236,Hospital_237,,S
-237,Hospital_238,,E
-238,Hospital_239,,W
-239,Hospital_240,,C
+222,Hospital_223,B,S
+223,Hospital_224,B,C
+224,Hospital_225,C,E
+225,Hospital_226,A,N
+226,Hospital_227,B,C
+227,Hospital_228,A,N
+228,Hospital_229,C,C
+229,Hospital_230,A,N
+230,Hospital_231,A,C
+231,Hospital_232,A,W
+232,Hospital_233,A,W
+233,Hospital_234,A,C
+234,Hospital_235,A,W
+235,Hospital_236,A,W
+236,Hospital_237,A,S
+237,Hospital_238,A,E
+238,Hospital_239,A,W
+239,Hospital_240,A,C
 240,Hospital_241,A,C
-241,Hospital_242,,N
-242,Hospital_243,,N
-243,Hospital_244,,W
-244,Hospital_245,,S
-245,Hospital_246,,W
-246,Hospital_247,,W
-247,Hospital_248,,S
-248,Hospital_249,,E
-249,Hospital_250,,S
-250,Hospital_251,,N
-251,Hospital_252,,N
-252,Hospital_253,,S
-253,Hospital_254,,S
+241,Hospital_242,A,N
+242,Hospital_243,A,N
+243,Hospital_244,A,W
+244,Hospital_245,A,S
+245,Hospital_246,A,W
+246,Hospital_247,A,W
+247,Hospital_248,A,S
+248,Hospital_249,A,E
+249,Hospital_250,A,S
+250,Hospital_251,A,N
+251,Hospital_252,A,N
+252,Hospital_253,B,S
+253,Hospital_254,A,S

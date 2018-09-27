@@ -1,0 +1,17 @@
+[
+{"Stage": "WAITING", "StageShow": "Waiting", "Colour":"#FFFFA6", "ColourShow": "#FFFFA6", "PreTre": true},
+{"Stage": "EVALUATING_L", "StageShow": "Evaluating", "Colour":" #E6E961", "ColourShow": "#E6E961", "PreTre": true},
+{"Stage": "EVALUATING_H", "StageShow": "Detecting", "Colour":"#9A9C34", "ColourShow": "#525414", "PreTre": true},
+{"Stage": "EVALUATING_E", "StageShow": "Detecting", "Colour":"#525414", "ColourShow": "#525414", "PreTre": true},
+{"Stage": "NOT_TB", "StageShow": "Interrupted Evaluation", "Colour":" #303030", "ColourShow": "#303030", "PreTre": true},
+{"Stage": "REEVALUATING_L", "StageShow": "Re-evaluating", "Colour":"#80469C", "ColourShow": "#80469C", "PreTre": true},
+{"Stage": "REEVALUATING_H", "StageShow": "Re-detecting", "Colour":"#532669", "ColourShow": "#2B0F38", "PreTre": true},
+{"Stage": "REEVALUATING_E", "StageShow": "Re-detecting", "Colour":"#2B0F38", "ColourShow": "#2B0F38", "PreTre": true},
+{"Stage": "TREATING_F", "StageShow": "Treating 1st", "Colour":" #4BB35D", "ColourShow": "#4BB35D", "PreTre": true},
+{"Stage": "FAIL", "StageShow": "Interrupted treatment", "Colour":"#541814", "ColourShow": "#541814", "PreTre": false},
+{"Stage": "TREATING_S", "StageShow": "Treating 2nd", "Colour":"#287836", "ColourShow": "#4BB35D", "PreTre": true},
+{"Stage": "COMPLETED", "StageShow": "Completed", "Colour":" #8EE09C", "ColourShow": "#8EE09C"},
+{"Stage": "LOSS", "StageShow":"Lost to follow-up", "Colour":" #0F3115", "ColourShow": "#0F3115"},
+{"Stage": "CENSORED", "StageShow": "Censored", "Colour":" #001804", "ColourShow": "#001804"},
+{"Stage": "DEAD", "StageShow": "Dead", "Colour":" #000000", "ColourShow": "#000000"}
+]

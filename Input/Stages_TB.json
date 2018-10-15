@@ -7,7 +7,7 @@
 {"Stage": "Re-detecting", "Colour": "#2B0F38", "PreTre": true, "PostTre": false},
 {"Stage": "Treating 1st", "Colour": "#4BB35D", "PreTre": true, "PostTre": true},
 {"Stage": "Interrupted treatment", "Colour": "#541814", "PreTre": false, "PostTre": true},
-{"Stage": "Treating 2nd", "Colour": "#4BB35D", "PreTre": true, "PostTre": true},
+{"Stage": "Treating 2nd", "Colour": "#287836", "PreTre": true, "PostTre": true},
 {"Stage": "Completed", "Colour": "#8EE09C", "PreTre": false, "PostTre": true},
 {"Stage":"Lost to follow-up", "Colour": "#0F3115", "PreTre": false, "PostTre": true},
 {"Stage": "Censored", "Colour": "#001804", "PreTre": false, "PostTre": true},

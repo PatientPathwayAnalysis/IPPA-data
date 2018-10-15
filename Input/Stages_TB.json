@@ -1,15 +1,15 @@
 [
-{"Stage": "Waiting", "Colour": "#FFFFA6", "PreTre": true, "PostTre": false},
-{"Stage": "Evaluating", "Colour": "#E6E961", "PreTre": true, "PostTre": false},
-{"Stage": "Detecting", "Colour": "#525414", "PreTre": true, "PostTre": false},
-{"Stage": "Interrupted Evaluation", "Colour": "#303030", "PreTre": true, "PostTre": false},
-{"Stage": "Re-evaluating", "Colour": "#80469C", "PreTre": true, "PostTre": false},
-{"Stage": "Re-detecting", "Colour": "#2B0F38", "PreTre": true, "PostTre": false},
-{"Stage": "Treating 1st", "Colour": "#4BB35D", "PreTre": true, "PostTre": true},
-{"Stage": "Interrupted treatment", "Colour": "#541814", "PreTre": false, "PostTre": true},
-{"Stage": "Treating 2nd", "Colour": "#287836", "PreTre": true, "PostTre": true},
-{"Stage": "Completed", "Colour": "#8EE09C", "PreTre": false, "PostTre": true},
-{"Stage":"Lost to follow-up", "Colour": "#0F3115", "PreTre": false, "PostTre": true},
-{"Stage": "Censored", "Colour": "#001804", "PreTre": false, "PostTre": true},
-{"Stage": "Dead", "Colour": "#000000", "PreTre": false, "PostTre": true}
+{"Stage": "Waiting", "Colour": "#9ecae1", "PreTre": true, "PostTre": false},
+{"Stage": "Evaluating", "Colour": "#fdd0a2", "PreTre": true, "PostTre": false},
+{"Stage": "Detecting", "Colour": "#fd8d3c", "PreTre": true, "PostTre": false},
+{"Stage": "Interrupted Evaluation", "Colour": "#dadaeb", "PreTre": true, "PostTre": false},
+{"Stage": "Re-evaluating", "Colour": "#bcbddc", "PreTre": true, "PostTre": false},
+{"Stage": "Re-detecting", "Colour": "#756bb1", "PreTre": true, "PostTre": false},
+{"Stage": "Treating 1st", "Colour": "#74c476", "PreTre": true, "PostTre": true},
+{"Stage": "Interrupted treatment", "Colour": "#c7e9c0", "PreTre": false, "PostTre": true},
+{"Stage": "Treating 2nd", "Colour": "#31a354", "PreTre": true, "PostTre": true},
+{"Stage": "Completed", "Colour": "#d9d9d9", "PreTre": false, "PostTre": true},
+{"Stage":"Lost to follow-up", "Colour": "#969696", "PreTre": false, "PostTre": true},
+{"Stage": "Censored", "Colour": "#bdbdbd", "PreTre": false, "PostTre": true},
+{"Stage": "Dead", "Colour": "#636363", "PreTre": false, "PostTre": true}
 ]
